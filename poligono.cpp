@@ -31,5 +31,7 @@ float Poligono::Qtd_Vertices (float n)
 
 float Poligono::Area_Poligono(float area)
 {
-
+    // calculando a area do poligono - ((formaula geral) : (numero de lados * lado * apotema)/2 )
+    // calculando a apotema: para calcular a apotema temos que encontrar o centro do poligono
+    // apotema: distância do centro do poligono até o ponto medio de um dos lados(medade de um dos lados)
 }
