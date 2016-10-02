@@ -27,14 +27,6 @@ public:
 
     void imprime(); // Imprime as coordenadas do ponto.
 
-protected:
-
-//    void setXVector(float[]);
-
-//    void setXVector(float[]);
-
-    void set_VectorXY(float[], float[]);
-
 private:
     float x, y;
     float p_origem_X;
