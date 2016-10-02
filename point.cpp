@@ -70,9 +70,3 @@ void Point::imprime()
 
     cout << "(" <<  x << "," << y << ")" << endl;
 }
-
-void Point::set_VectorXY(float x_[], float y_[])
-{
-    x[] = x_;
-    y[] = y_;
-}
